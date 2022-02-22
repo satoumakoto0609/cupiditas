@@ -2,26 +2,26 @@
   "name": "田中　瞳",
   "belong-to": "テレビ東京",
   "title": "アナウンサー",
-  "avatar": "",
+  "avatar": "https://images.app.goo.gl/VTvFRxQ79pVtsNLS8",
   "style": {
-    "desktop": "Mac",
+    "desktop": "Windows",
     "mobile": "iPhone"
   },
   "point-skill": [
     {
-      "skill-name": "かわいらしさ",
-      "skill-point": "100"
+      "skill-name": "滑舌",
+      "skill-point": "78"
     },
     {
-      "skill-name": "バラエティ",
-      "skill-point": "100"
+      "skill-name": "バラエティ適正",
+      "skill-point": "90"
     },
     {
       "skill-name": "癒し",
       "skill-point": "100"
     },
     {
-      "skill-name": "滑舌",
+      "skill-name": "親近感",
       "skill-point": "100"
     },
     {
@@ -49,11 +49,11 @@
       },
       {
         "id": 4,
-        "value": "5"
+        "value": "3"
       },
       {
         "id": 5,
-        "value": "3"
+        "value": "2"
       },
       {
         "id": 6,
@@ -77,13 +77,14 @@
       }
     ],
     "special-ability": [
-      "5",
       "8",
       "37",
       "40",
-      "71",
       "72",
-      "75"
+      "74",
+      "75",
+      "78",
+      "80"
     ]
   }
 }
