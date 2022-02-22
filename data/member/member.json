@@ -10,19 +10,19 @@
   "point-skill": [
     {
       "skill-name": "滑舌",
-      "skill-point": "78"
-    },
-    {
-      "skill-name": "バラエティ適正",
-      "skill-point": "90"
+      "skill-point": "83"
     },
     {
       "skill-name": "癒し",
-      "skill-point": "100"
+      "skill-point": "95"
     },
     {
       "skill-name": "親近感",
       "skill-point": "100"
+    },
+    {
+      "skill-name": "バラエティ適正",
+      "skill-point": "90"
     },
     {
       "skill-name": "報道適正",
@@ -30,8 +30,8 @@
     }
   ],
   "inherent-ability": {
-    "name": "ミス成城大学2016準グランプリ",
-    "description": ""
+    "name": "二刀流",
+    "description": "バラエティと報道の二足のわらじで活躍中。\n主な出演番組は「モヤモヤさまぁ〜ず２」、「WBS」とおじさん人気が高い。\nミス成城大学2016準グランプリの過去を持つ。"
   },
   "abilities": {
     "numerical-ability": [
