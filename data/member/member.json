@@ -2,9 +2,9 @@
   "name": "田中　瞳",
   "belong-to": "テレビ東京",
   "title": "アナウンサー",
-  "avatar": "https://images.app.goo.gl/VTvFRxQ79pVtsNLS8",
+  "avatar": "https://www.sponichi.co.jp/entertainment/news/2019/08/04/jpeg/20190804s00041000291000p_view.jpg",
   "style": {
-    "desktop": "Windows",
+    "desktop": "Mac",
     "mobile": "iPhone"
   },
   "point-skill": [
@@ -26,12 +26,12 @@
     },
     {
       "skill-name": "",
-      "skill-point": "100"
+      "skill-point": ""
     }
   ],
   "inherent-ability": {
-    "name": "Ability Name",
-    "description": "Ability Description"
+    "name": "ミス成城大学2016準グランプリ",
+    "description": ""
   },
   "abilities": {
     "numerical-ability": [
